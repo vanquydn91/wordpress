@@ -1,0 +1,2 @@
+# wordpress
+learn theme
